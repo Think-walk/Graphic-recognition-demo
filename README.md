@@ -1,2 +1,3 @@
 # Graphic-recognition-demo
-use url : python test.py +url   use local file:
+use url : python test.py +url   
+use local file：python test.py
